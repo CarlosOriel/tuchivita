@@ -1,0 +1,26 @@
+
+h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+    margin-top: auto;
+   
+}
+
+h2 {
+    text-align: left;
+
+}
+
+img{
+    border: solid;
+}
+
+.custom-img {
+    width: 80%;         /* Escala dentro de su contenedor */
+    max-width: 200px;    /* Cambia este valor según lo pequeño que quieras */
+    height: auto;        /* Mantiene proporción */
+    border-radius: 8px;  /* Opcional: bordes redondeados */
+}
+
+
